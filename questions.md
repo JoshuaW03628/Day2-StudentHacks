@@ -20,7 +20,9 @@
 <h1>Customization 1</h1>
 
 <h2>1. What are some of the best practices for creating effective wire-frames in computer science? How do wire-frames help with the design process?</h2>
-<!--<p>ANSWER</p>-->
+
+la
+
 <h2>2. How does user testing play a role in the design of user interfaces and wire-frames in computer science? Can you provide an example of a project where user testing significantly impacted the final product design?</h2>
 <!--<p>ANSWER</p>-->
 
